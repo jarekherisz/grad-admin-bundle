@@ -4,7 +4,7 @@
   "symfony": {
     "controllers": {
       "grad-admin": {
-        "main": "dist/controller.js",
+        "main": "dist/grad_controller.js",
         "fetch": "eager",
         "enabled": true
       }
