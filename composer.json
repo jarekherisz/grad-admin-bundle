@@ -1,6 +1,7 @@
 {
     "name": "jarekherisz/grad-admin-bundle",
     "type": "symfony-bundle",
+    "version": "1.0.0",
     "keywords": ["symfony-ux"],
     "autoload": {
         "psr-4": {
