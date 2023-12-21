@@ -1,0 +1,15 @@
+{
+    "name": "jarekherisz/grad-admin-bundle",
+    "type": "symfony-bundle",
+    "keywords": ["symfony-ux"],
+    "autoload": {
+        "psr-4": {
+            "GradAdmin\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.3",
+        "symfony/framework-bundle": "^4.4|^5.0",
+        "symfony/ux-stimulus": "^1.0"
+    }
+}

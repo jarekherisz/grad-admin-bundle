@@ -1,0 +1,11 @@
+### Editors ###
+/.idea/
+
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Others ###
+/.env.local
+/.env.*.local
