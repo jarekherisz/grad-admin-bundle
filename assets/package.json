@@ -1,6 +1,7 @@
 {
   "name": "@jarekherisz/grad-admin",
   "version": "1.0.0",
+  "main": "dist/controller.js",
   "symfony": {
     "controllers": {
       "grad-admin": {
@@ -15,9 +16,6 @@
   },
   "peerDependencies": {
     "@hotwired/stimulus": "^3.0.0"
-  },
-  "scripts": {
-    "build": "babel src --extensions .ts -d dist"
   },
   "devDependencies": {
     "@hotwired/stimulus": "^3.0.0"
